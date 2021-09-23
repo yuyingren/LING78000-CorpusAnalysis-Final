@@ -1,4 +1,4 @@
-# LING78000-CorpusAnalysis-Final
+# LING78000-CorpusAnalysis-Final-Japanese Loanword Transliteration
 
 <br />Files description:
 
