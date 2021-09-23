@@ -20,4 +20,11 @@
 <br />TrainJMED:
 <br />
 <br />      contains all 12 train, dev, test datafiles, the aligned CMU pronunciation is marked as xxx.kcmu; the unaligned CMU pronunciation is marked as xxx.cmu
-
+<br />
+<br />
+<br />ResultJMED:
+<br />
+<br />      contains the results of all the experiments:
+<br />      kata-phone-eng: the back transliteration from katakana to English (using phonological feature as medium)
+<br />      eng-phone-kata: the transliteration from English to Katakana (using phonological feature as medium)
+<br />      orthography-based: the transliteration/back transliteration between Katakana and English (directly from characters to letters)
