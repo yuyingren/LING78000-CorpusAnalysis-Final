@@ -15,3 +15,9 @@
 <br />      Edict_annot.tsv: the katakana dictionary from above but manually cleaned up
 <br />      Edict_aligned.csv: the katakana dictionary, but the katakana chracters and English pronunciations are aligned
 <br />      EDataTrainResult: the train, dev, test data of the katakana dictionary extracted from Edictionary and it prediction result with Transformer
+<br />
+<br />
+<br />TrainJMED:
+<br />
+<br />      contains all 12 train, dev, test datafiles, the aligned CMU pronunciation is marked as xxx.kcmu; the unaligned CMU pronunciation is marked as xxx.cmu
+
